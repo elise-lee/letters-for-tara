@@ -1,15 +1,23 @@
-#body {
-    background-color: #c4d5ff
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color:#c9d3f5;
 }
 
 .title {
-    margin-left: 80px;
-    margin-top: 5px;
+    margin-left: 88px;
     color: white;
     font-size: 50px;
+    font-weight: bold;
 }
 
 .row1 {
+    display: flex;
+    direction: row;
+}
+
+.row2 {
     display: flex;
     direction: row;
 }
@@ -25,7 +33,7 @@
  .heart:before,
  .heart:after {
     content : "";
-    background-color : #ff908a;
+    background-color : #faa09b;
     position : absolute;
     height : 30px;
     width : 45px;
