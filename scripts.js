@@ -1,7 +1,66 @@
 
+// Handle letters
+var letter_index = 0;
+var letters = [
+	{
+		intro: "dear tara,",
+		body: ["Happy 21st birthday! Sorry that we couldn't be there in person to celebrate, but we miss you and can't wait to see you soon - in the meantime, here's a little something we put together for you!",
+			"We were thinking that sending packages or letters in this time could be risky so we wanted to send you this book of virtual letters instead! We all appreciate you so much and we're so happy you're in all of our lives. We love you so much, and we'll see you before you know it!"
+		],
+		conclusion: "love, your pals"
+
+	},
+	{
+		intro: "hi taro,",
+		body: ["elise", "elise", "elise"],
+		conclusion: "love, elise"
+	},
+	{
+		intro: "dear tara,",
+		body: ["shreya", "shreya", "shreya"],
+		conclusion: "love, shreya"
+	},
+];
+var max_letter_index = letters.length - 1;
+
+function next_letter() {
+	console.log('Next letter, current index ' + letter_index.toString())
+	if (letter_index === max_letter_index) {
+		letter_index = 0;
+	} else {
+		letter_index++;
+	} 
+	change_text(letter_index);
+}
+
+function prev_letter() {
+	console.log('Prev letter, current index ' + letter_index.toString())
+	if (letter_index === 0) {
+		letter_index = max_letter_index;
+	} else {
+		letter_index--;
+	}
+	change_text(letter_index);
+}
+
+function change_text(letter_index) {
+	var intro = document.getElementById("intro");
+	var body = document.getElementById("letter-body");
+	var conclusion = document.getElementById("conclusion");
+
+	intro.textContent = letters[letter_index].intro;
+	var body_string = ""
+	for (var paragraph of letters[letter_index].body) {
+		body_string += "<p>" + paragraph + "</p>";
+	  }
+	body.innerHTML = body_string 
+	conclusion.textContent = letters[letter_index].conclusion;
+}
+
+
 // Handle hearts
 var brd = document.createElement("DIV");
-		document.body.insertAfter(brd, document.getElementById("board"));
+		document.body.insertBefore(brd, document.getElementById("board"));
 
 		const duration = 3000;
 		const speed = 0.5;

@@ -42,20 +42,20 @@ body {
     color : #faa09b;
 }
 
-.intro {
+#intro {
     margin: 30px;
     color : #faa09b;
     font-size: 30px;
 }
 
-.conclusion {
+#conclusion {
     margin: 30px;
     text-align: right;
     color : #faa09b;
     font-size: 30px;
 }
 
-.letter-body{
+#letter-body{
     margin-left: 60px;
     margin-right: 60px;
     font-size: 16px;

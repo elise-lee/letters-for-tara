@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <title>♥ letters for tara ♥</title>
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Quicksand" />
 </head>
 
 <body>
@@ -17,13 +16,13 @@
     </div>
     <div class="row2">
         <div id="left-arrow">
-            <i class="fas fa-chevron-left"></i>
+            <i onClick="prev_letter()" class="fas fa-chevron-left"></i>
         </div>
         <div id="letter">
-            <div class="intro">
+            <div id="intro">
                 dear tara,
             </div>
-            <div class="letter-body">
+            <div id="letter-body">
                 <p>
                 Happy 21st birthday! Sorry that we couldn't be there
                 in person to celebrate, but we miss you and 
@@ -42,12 +41,12 @@
                </p>
 
             </div>
-            <div class="conclusion">
-                love, <br> your pals
+            <div id="conclusion">
+                love, your pals
             </div>
         </div>
-        <div id="right-arrow">
-            <i class="fas fa-chevron-right"></i>
+        <div id="right-arrow"> 
+            <i onClick="next_letter()" class="fas fa-chevron-right"></i>
         </div>
     </div>
     <script src="scripts.js"></script>
