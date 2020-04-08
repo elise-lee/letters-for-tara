@@ -89,38 +89,38 @@ var brd = document.createElement("DIV");
 			return heart;
 		}
 
-		var down = false;
+		var down = true;
 		var event = null;
 
-		document.onmousedown = function(e) {
-			down = true;
-			event = e;
-		}
+		// document.onmousedown = function(e) {
+		// 	down = true;
+		// 	event = e;
+		// }
 
-		document.onmouseup = function(e) {
-			down = false;
-		}
+		// document.onmouseup = function(e) {
+		// 	down = false;
+		// }
 
-		document.onmousemove = function(e) {
-			event = e;
-		}
+		// document.onmousemove = function(e) {
+		// 	event = e;
+		// }
 
-		document.ontouchstart = function(e) {
-			down = true;
-			event = e.touches[0];
-		}
+		// document.ontouchstart = function(e) {
+		// 	down = true;
+		// 	event = e.touches[0];
+		// }
 
-		document.ontouchend = function(e) {
-			down = false;
-		}
+		// document.ontouchend = function(e) {
+		// 	down = false;
+		// }
 
-		document.ontouchmove = function(e) {
-			event = e.touches[0];
-		}
+		// document.ontouchmove = function(e) {
+		// 	event = e.touches[0];
+		// }
 
 		var before = Date.now();
 		var id = setInterval(frame, 5);
-		var gr = setInterval(check, 100);
+		var gr = setInterval(check, 300);
 
 		function frame()
 		{
@@ -152,6 +152,7 @@ var brd = document.createElement("DIV");
 				var start = 1 - Math.round(Math.random()) * 2;
 				var scale = Math.random() * Math.random() * 0.8 + 0.2;
 				var bound = 30 + Math.random() * 20;
-				generateHeart(event.pageX - brd.offsetLeft + cursorXOffset, event.pageY - brd.offsetTop + cursorYOffset, bound, start, scale);
+				//generateHeart(event.pageX - brd.offsetLeft + cursorXOffset, event.pageY - brd.offsetTop + cursorYOffset, bound, start, scale);
+				generateHeart(200 - brd.offsetLeft + cursorXOffset, 725 - brd.offsetTop + cursorYOffset, bound, start, scale);
 			}
 		}
