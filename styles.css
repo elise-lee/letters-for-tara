@@ -20,7 +20,48 @@ body {
 .row2 {
     display: flex;
     direction: row;
+    justify-content: center;
 }
+
+#left-arrow {
+    margin-top: 200px;
+    font-size: 60px;
+    color : #faa09b;
+}
+
+#letter {
+    margin: 50px;
+    background-color: white;
+    border-radius: 30px;
+    width: 650px;
+}
+
+#right-arrow {
+    font-size: 60px;
+    margin-top: 200px;
+    color : #faa09b;
+}
+
+.intro {
+    margin: 30px;
+    color : #faa09b;
+    font-size: 30px;
+}
+
+.conclusion {
+    margin: 30px;
+    text-align: right;
+    color : #faa09b;
+    font-size: 30px;
+}
+
+.letter-body{
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 16px;
+    color: #4f4f4f;
+}
+
 
 #heart-img {
     margin: 15px;

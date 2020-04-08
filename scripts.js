@@ -1,7 +1,7 @@
 
 // Handle hearts
 var brd = document.createElement("DIV");
-		document.body.insertBefore(brd, document.getElementById("board"));
+		document.body.insertAfter(brd, document.getElementById("board"));
 
 		const duration = 3000;
 		const speed = 0.5;
