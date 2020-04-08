@@ -12,12 +12,12 @@ var letters = [
 	},
 	{
 		intro: "hi taro,",
-		body: ["elise", "elise", "elise"],
+		body: ["test", "test", "test"],
 		conclusion: "love, elise"
 	},
 	{
 		intro: "dear tara,",
-		body: ["shreya", "shreya", "shreya"],
+		body: ["test", "test", "test"],
 		conclusion: "love, shreya"
 	},
 ];
