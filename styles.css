@@ -1,0 +1,40 @@
+#body {
+    background-color: #c4d5ff
+}
+
+.title {
+    margin-left: 80px;
+    margin-top: 5px;
+    color: white;
+    font-size: 50px;
+}
+
+.row1 {
+    display: flex;
+    direction: row;
+}
+
+#heart-img {
+    margin: 15px;
+}
+
+.heart {
+    z-index : 999;
+    position : absolute;
+ }
+ .heart:before,
+ .heart:after {
+    content : "";
+    background-color : #ff908a;
+    position : absolute;
+    height : 30px;
+    width : 45px;
+    border-radius : 15px 0px 0px 15px;
+ }
+ .heart:before {
+    transform : rotate(45deg);
+ }
+ .heart:after {
+    left : 10.5px;
+    transform : rotate(135deg);
+ }
