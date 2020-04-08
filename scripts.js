@@ -12,16 +12,85 @@ var letters = [
 	},
 	{
 		intro: "hi taro,",
-		body: ["test", "test", "test"],
+		body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+				"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
 		conclusion: "love, elise"
 	},
 	{
 		intro: "dear tara,",
-		body: ["test", "test", "test"],
+		body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
 		conclusion: "love, shreya"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
+		conclusion: "love, rach"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
+		"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
+		conclusion: "love, sai"
 	},
 ];
 var max_letter_index = letters.length - 1;
+
+update_tracker(letter_index);
+
+function update_tracker(letter_index) {
+	var tracker = document.getElementById("tracker");
+	tracker.textContent = (letter_index + 1).toString() + " / " + letters.length.toString()
+}
 
 function next_letter() {
 	console.log('Next letter, current index ' + letter_index.toString())
@@ -31,6 +100,7 @@ function next_letter() {
 		letter_index++;
 	} 
 	change_text(letter_index);
+	update_tracker(letter_index);
 }
 
 function prev_letter() {
@@ -41,6 +111,7 @@ function prev_letter() {
 		letter_index--;
 	}
 	change_text(letter_index);
+	update_tracker(letter_index);
 }
 
 function change_text(letter_index) {

@@ -32,7 +32,10 @@ body {
 }
 
 #letter {
-    margin: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 25px;
     background-color: white;
     border-radius: 30px;
     width: 650px;
@@ -62,6 +65,26 @@ body {
     margin-right: 60px;
     font-size: 16px;
     color: #4f4f4f;
+}
+
+#tracker-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#tracker {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 330px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    width: 115px;
+    margin-bottom: 25px;
 }
 
 
