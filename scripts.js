@@ -19,7 +19,7 @@ var letters = [
 		"- You <span style='font-size: 18px;'>ALWAYS</span> motivate me to be a better version of myself. From your work ethic (even if you start things late, you still get things done hehe), your determination to get through anything, your compassion (you always see the best in people), to your love for K-dramas and Cha EunWoo HEHE (im gonna insert a picture of him here )",
 		"<img src='eunwoo.png'></img>", 
 		"- Honestly, I am not sure how I managed to find a best friend/roommate like you cuz you suck. JK LOL. You are so similar to me and you always know what I am thinking, how to make me laugh when I am down, and you encourage my big dreamy dreams haha without laughing at me or making me feel dumb.", 
-		"Thank you for being such an amazing best friend and roommate and for putting up with me hehe. ALSO, CRASH LANDING ON YOU IS SO GOOD LOL IM ON EP 10 SO WE CAN WATCH NOW. I hope you had an amazing day and I can't wait to have more adventures with you, make our youtube channel, podcast, and travel!",
+		"Thank you for being such an amazing best friend and roommate and for putting up with me hehe. ALSO, CRASH LANDING ON YOU IS SO GOOD LOL IM ON EP 10 SO WE CAN WATCH NOW. ",
 		"I hope you had an amazing day and I can't wait to have more adventures with you, make our youtube channel, podcast, and travel!"],
 		conclusion: "LOVE, shreya"
 	},
@@ -56,19 +56,20 @@ var letters = [
 	},
 	{
 		intro: "dear tara,",
-		body: ["Happy birthday Tara! Thank you for always being so incredibly supportive of all your friends. Even though we don't see each other often anymore, the vibe of our friendship never changes and I am always glad to see you whenever I do!! Btw I hope you're eating proper meals now instead of just bananas and Starbucks. HAVE A GREAT 21ST BIRTHDAY!! Even though we can't celebrate together now, let's throw a little party for all the missed birthdays when all this pandemic business is over ~"],
+		body: ["Happy birthday Tara! Thank you for always being so incredibly supportive of all your friends. Even though we don't see each other often anymore, the vibe of our friendship never changes and I am always glad to see you whenever I do!! Btw I hope you're eating proper meals now instead of just bananas and Starbucks.",
+			   "HAVE A GREAT 21ST BIRTHDAY!! Even though we can't celebrate together now, let's throw a little party for all the missed birthdays when all this pandemic business is over ~"],
 		conclusion: "- khizar"
 	},
 	{
-		intro: "Taro,",
+		intro: "taro,",
 	body: ["Honestly how do I begin to describe how infinitely cool and woke you are? I’ve said it before but I’m obvi going to say it again. You’re one of the strongest, most BEAUTIFUL, smartest, big-hearted girls out there. I know I can always count on you for the best advice and a damn good time whether we’re making pasta, shopping for ~shmexy things~, binge-watching Made in Heaven, or just existing and being beans. I feel like I can completely and wholeheartedly be myself around you and I feel cheated by the universe that we couldn’t spend another amazing Spring Quarter together. I can’t WAIT to hug you, have a drink with you, and metaphorically step on all the people that don’t deserve you."],
 		conclusion: "love, sonia"
 	},
 	{
-		intro: "Dear Tara Didi,",
+		intro: "dear tara didi,",
 	body: ["Happy Birthday! While we have already written you birthday letters, we thought this would be a nice keepsake. I hope this year will be everything you want and more and that you will be happy and healthy and safe and get all the hugs you could ever want! Of course, they won’t be the same type of hug that you may get at home, but nonetheless, we want you get cuddles galore wherever you are. You are such a kind, loving, incredible sister and I love everything about you, from the strange noises to the random pouncing and great advice. I am so lucky to have grown up with you and to have witnessed many of the high points and low points in your life. I am so happy we have the relationship we have and that we are as close as we are. You have helped and will continue to help shape me to be the person I will become. As I said in the other letter I wrote, having a sister that I know I can always rely on is the most special thing I could have ever asked for, and someone as great as you to look up to is a gift I can’t ignore. I am so grateful that I got to have you as a sister and as a best friend. As a support system and my very own comedic relief. There is no one else I’d rather laugh so hard with that no sound comes out (which seems to be happening a lot recently). ",
 			"I’ll leave you with the memory of my past birthday, when we went to the karaoke bar and ‘partied’. That was one of the best days I had ever had and it was because we spent it just having fun with each other and Nemma. We sang until we couldn’t anymore and danced like crazy people, then we had dinner at that Japanese curry place. I hope that we can make more memories like that. Those times are when I am happiest!"],
-		conclusion: "Lots of love and hugs,<br>Anika"
+		conclusion: "lots of love and hugs,<br>anika"
 	},
 	// {
 	// 	intro: "dear tara,",
