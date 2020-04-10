@@ -25,8 +25,8 @@ var letters = [
 	},
 	{
 		intro: "dear taro,",
-		body: ["Happy happy birthday! I’m so so so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
-			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that we all happened to meet first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
+		body: ["Happy happy birthday! I’m so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
+			"Thank you for the emotional support and adventures in Chi - I’m so lucky that we all happened to meet first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places <3",
 			"Here are some fun memssss:",
 			"- NOT assembly times with russ or the EAs",
 			"- Getting boba at Joy Yees for the very first time (lol), the first of many boba trips!!! (just not at joy yees)",
@@ -36,8 +36,7 @@ var letters = [
 			"- Dinner in NYC the summer after sophomore year!!!",
 			"- Going to Kresge like every other night freshman year to study and avoid the weird plastic art baby next to the vending machine and eat too many snacks from the vending machine",
 			"- Making all those cute saturday morning brunches!",
-			"and lots of other good times!!!! <333",
-			"Let’s plan another roadtrip soon (Michigan weekend roadtrip 2.0!!!), I love and miss you and will see you soon!!"],
+			"and lots of other good times!!!! <333 Let’s plan another roadtrip soon (Michigan weekend roadtrip 2.0!!!), I love and miss you and will see you soon (even if it's only through zoom)!!"],
 		conclusion: "lots of love, elise"
 	},
 	{
