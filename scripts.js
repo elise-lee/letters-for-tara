@@ -11,7 +11,7 @@ var letters = [
 
 	},
 	{
-		intro: "Dear Taro,",
+		intro: "dear taro,",
 		body: ["<span style='font-size: 18px; color: #00ffff;'>HAPPY BIRTHDAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</span> 🤗", 
 		"I know the circumstances are not ideal, but I hope you were able to have a really nice 21st birthday! I know how much you love to receive letters so I hope you like this &quot;book&quot; we put together for you! So even though we couldn't all be there to celebrate with you, you can still feel warm and fuzzy and remember how much of a positive impact you have on those around you 🙂", 
 		"There isn't much that I can say that you don't already know, but it doesn't hurt to repeat it so here I go!", 
@@ -26,53 +26,37 @@ var letters = [
 	{
 		intro: "dear taro,",
 		body: ["Happy happy birthday! I’m so so so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
-
-			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that Rach and I somehow managed to meet you after that SWE brunch the first week of freshman year (best thing to come out of living in the fairchildren).",
-			
-			"Thank you for keeping me from literally dying in the EAs and in Assembly (why do we end up taking the worst classes together rip) and sorry that I got natural selected out of EECS 202 but I’m so proud of you for sticking it out! You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
-			
+			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that Rach and I somehow managed to meet you after that SWE brunch the first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
 			"Here are some fun memssss:",
 			"- Getting boba at Joy Yees for the very first time (lol), the first of many boba trips!!! (just not at joy yees)",
 			"- Binge watching the first season of Riverdale and Rach saying cole sprouse’s name as cold sprouts (the og group chat)",
 			"- When you successfully merged your two friend groups (cold sprouts + samosa social) and we all went shopping in Chi and then got deep dish at Gino's",
 			"- When we went to that formal in heels and came back in fuzzy socks",
-			"- Being plex neighbors!! And then all of us having breakdowns in the plex hallway (may have happened multiple times)",
-			"- Pregaming hard to go see A$AP ferg and then just ending up at the lakefill and then deciding to kidnap khiz for a surprise bday thing at KFT with cookie cake from insomnia",
 			"- Dinner in NYC the summer after sophomore year!!!",
-			"- Going to koco table too many times and then moving north (and then getting soban too many times)",
-			"- That one time in boystown when we somehow ended up at that cute sushi place and it was a really wholesome night",
 			"- Going to Kresge like every other night freshman year to study and avoid the weird plastic art baby next to the vending machine and eat too many snacks from the vending machine",
 			"- Making all those cute saturday morning brunches!",
 			"and lots of other good times!!!! <333",
-			
 			"Let’s plan another roadtrip soon (Michigan weekend roadtrip 2.0!!!), I love and miss you and will see you soon!!"],
-		conclusion: "love, elise"
+		conclusion: "lots of love, elise"
 	},
-	// {
-	// 	intro: "dear tara,",
-	// 	body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
-	// 	conclusion: "love, rach"
-	// },
-	// {
-	// 	intro: "dear tara,",
-	// 	body: ["Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu.", 
-	// 	"Lorem ipsum dolor sit amet, errem dictas ea mei. An iuvaret quaeque voluptatibus has. Modus forensibus referrentur in mel, dicunt invenire delicatissimi et sit, quodsi nusquam constituto an cum. Ne qui regione quaeque, option alterum contentiones ea usu."],
-	// 	conclusion: "love, sai"
-	// },
+	{
+		intro: "stara,",
+		body: ["You know how much I love you. The past year has been different because I don’t get to see you as much as I wan’t to. I don’t get to barge into your room and hide below your desk and scare you or make fun of your “wine” wired wall thing. Neither do I get to eat all or your korean beebombim, intentionally sit on your pillow or rip the tassels off your wall. Okay yeah I wreck havoc as I breath. Previous point wasn’t building up to anything but I just wanna say that there’s a reason why your friends look up to you soooo fucking much. You might type the wrong address for uber or not be in on contemportary popular culture, but you are a gem. You care for your friends in a way that is so rare, you radiate positivity towards others even when you yourself are feeling down and lets be real... you’re a fucking humble hotty. I’ve grown so immensely in college and I’m not saying this for the sake of a card or ur bday, but you have such a big role in that. I love you, admire you and will be ur friend forever- even if we live in opposite sides of the country. I know moving off campus has made things different but winter brought all of us back on track- fuck corona, but next year is OUR year. Once I get a job hopefully- fuck corona- we’re literally gonna eat, sleep, party and cook tgt. You are my moth and I am ur leech.",
+			"<span style='font-size: 14px;'>* there’s a lot of typos, but I only think its fitting since you’re always my grammar ninja. Happy birthday. We will have an actual blast when the quarantines over.</span>"],
+		conclusion: "love you to the moon and stara back, <br> sai"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Happy 21st birthday! So sorry we couldn’t have the lit celebration you wanted this year, but we’ll definitely make up for it once we’re all back on campus healthy and safe 🙂",
+		"Thank you for being such a kind and awesome human being to live and experience college with for the past three years. It’s pretty crazy to see how much we’ve both changed the past few years, and also how we’re growing in the same direction.",
+		"So so thankful to have you as a friend and can’t wait to see you soon. Love you!"],
+		conclusion: "love, rach"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Happy birthday Tara! Thank you for always being so incredibly supportive of all your friends. Even though we don't see each other often anymore, the vibe of our friendship never changes and I am always glad to see you whenever I do!! Btw I hope you're eating proper meals now instead of just bananas and Starbucks. HAVE A GREAT 21ST BIRTHDAY!! Even though we can't celebrate together now, let's throw a little party for all the missed birthdays when all this pandemic business is over ~"],
+		conclusion: "sincerely, khizar"
+	},
 ];
 var max_letter_index = letters.length - 1;
 
@@ -116,7 +100,7 @@ function change_text(letter_index) {
 		body_string += "<p>" + paragraph + "</p>";
 	  }
 	body.innerHTML = body_string 
-	conclusion.textContent = letters[letter_index].conclusion;
+	conclusion.innerHTML = letters[letter_index].conclusion;
 }
 
 
