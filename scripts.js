@@ -5,7 +5,7 @@ var letters = [
 	{
 		intro: "dear tara,",
 		body: ["Happy 21st birthday! Sorry that we couldn't be there in person to celebrate, but we miss you and can't wait to see you soon - in the meantime, here's a little something we put together for you!",
-			"We were thinking that sending packages or letters in this time could be risky so we wanted to send you this book of virtual letters instead! We all appreciate you so much, and we're so happy you're in all of our lives. We love you so much, and we'll see you before you know it!"
+			"We were thinking that sending packages or letters in this time could be risky so we wanted to send you this book of virtual letters instead! We all appreciate you so much, and we're so happy you're in all of our lives. We love you so much, and we'll see you before you know it!",
 		],
 		conclusion: "love, your pals"
 
@@ -81,6 +81,7 @@ var letters = [
 ];
 var max_letter_index = letters.length - 1;
 
+change_text(letter_index);
 update_tracker(letter_index);
 
 function update_tracker(letter_index) {
