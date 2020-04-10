@@ -26,7 +26,7 @@ var letters = [
 	{
 		intro: "dear taro,",
 		body: ["Happy happy birthday! I’m so so so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
-			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that Rach and I somehow managed to meet you after that SWE brunch the first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
+			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that we all happened to meet first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
 			"Here are some fun memssss:",
 			"- NOT assembly times with russ or the EAs",
 			"- Getting boba at Joy Yees for the very first time (lol), the first of many boba trips!!! (just not at joy yees)",
