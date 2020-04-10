@@ -27,14 +27,16 @@ var letters = [
 		intro: "dear taro,",
 		body: ["Happy happy birthday! I’m so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
 			"Thank you for the emotional support and adventures in Chi - I’m so lucky that we all happened to meet first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places <3",
-			"Here are some fun memssss:",
+			"Here are some fun throwback mems:",
 			"- NOT assembly times with russ or the EAs",
 			"- Getting boba at Joy Yees for the very first time (lol), the first of many boba trips!!! (just not at joy yees)",
 			"- Binge watching the first season of Riverdale and Rach saying cole sprouse’s name as cold sprouts (the og group chat)",
-			"- When you successfully merged your two friend groups (cold sprouts + samosa social) and we all went shopping in Chi and then got deep dish at Gino's",
+			"- When you successfully merged your two frosh friend groups (cold sprouts + samosa social) and we all went shopping in Chi and then got deep dish at Gino's",
 			"- When we went to that formal in heels and came back in fuzzy socks",
+			"- Going to that one NU football game, sorry we didn’t go to more :((((",
 			"- Dinner in NYC the summer after sophomore year!!!",
 			"- Going to Kresge like every other night freshman year to study and avoid the weird plastic art baby next to the vending machine and eat too many snacks from the vending machine",
+			"- That one time where we went to boystown and somehow ended up at that cute sushi place called something like Rollapalooza and it was a really wholesome night",
 			"- Making all those cute saturday morning brunches!",
 			"and lots of other good times!!!! <333 Let’s plan another roadtrip soon (Michigan weekend roadtrip 2.0!!!), I love and miss you and will see you soon (even if it's only through zoom)!!"],
 		conclusion: "lots of love, elise"
@@ -55,8 +57,26 @@ var letters = [
 	{
 		intro: "dear tara,",
 		body: ["Happy birthday Tara! Thank you for always being so incredibly supportive of all your friends. Even though we don't see each other often anymore, the vibe of our friendship never changes and I am always glad to see you whenever I do!! Btw I hope you're eating proper meals now instead of just bananas and Starbucks. HAVE A GREAT 21ST BIRTHDAY!! Even though we can't celebrate together now, let's throw a little party for all the missed birthdays when all this pandemic business is over ~"],
-		conclusion: "sincerely, khizar"
+		conclusion: "- khizar"
 	},
+	{
+		intro: "Taro,",
+	body: ["Honestly how do I begin to describe how infinitely cool and woke you are? I’ve said it before but I’m obvi going to say it again. You’re one of the strongest, most BEAUTIFUL, smartest, big-hearted girls out there. I know I can always count on you for the best advice and a damn good time whether we’re making pasta, shopping for ~shmexy things~, binge-watching Made in Heaven, or just existing and being beans. I feel like I can completely and wholeheartedly be myself around you and I feel cheated by the universe that we couldn’t spend another amazing Spring Quarter together. I can’t WAIT to hug you, have a drink with you, and metaphorically step on all the people that don’t deserve you."],
+		conclusion: "love, sonia"
+	},
+	{
+		intro: "Dear Tara Didi,",
+	body: ["Happy Birthday! While we have already written you birthday letters, we thought this would be a nice keepsake. I hope this year will be everything you want and more and that you will be happy and healthy and safe and get all the hugs you could ever want! Of course, they won’t be the same type of hug that you may get at home, but nonetheless, we want you get cuddles galore wherever you are. You are such a kind, loving, incredible sister and I love everything about you, from the strange noises to the random pouncing and great advice. I am so lucky to have grown up with you and to have witnessed many of the high points and low points in your life. I am so happy we have the relationship we have and that we are as close as we are. You have helped and will continue to help shape me to be the person I will become. As I said in the other letter I wrote, having a sister that I know I can always rely on is the most special thing I could have ever asked for, and someone as great as you to look up to is a gift I can’t ignore. I am so grateful that I got to have you as a sister and as a best friend. As a support system and my very own comedic relief. There is no one else I’d rather laugh so hard with that no sound comes out (which seems to be happening a lot recently). ",
+			"I’ll leave you with the memory of my past birthday, when we went to the karaoke bar and ‘partied’. That was one of the best days I had ever had and it was because we spent it just having fun with each other and Nemma. We sang until we couldn’t anymore and danced like crazy people, then we had dinner at that Japanese curry place. I hope that we can make more memories like that. Those times are when I am happiest!"],
+		conclusion: "Lots of love and hugs,<br>Anika"
+	},
+	// {
+	// 	intro: "dear tara,",
+	// body: ["",
+	// "",
+	// ""],
+	// 	conclusion: "love,"
+	// },
 ];
 var max_letter_index = letters.length - 1;
 
