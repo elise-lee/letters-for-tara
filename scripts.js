@@ -28,6 +28,7 @@ var letters = [
 		body: ["Happy happy birthday! I’m so so so sad we didn’t get to be in the Bay Area together this summer, it would have been the most fun thing ever and I feel robbed :(( But we still have time for lots of adventures and traveling though, and I’m super excited for the future! Asia senior trip 2021 heheh",
 			"Thank you for the millions of hours of emotional support and adventures in Chi, I’m so lucky that Rach and I somehow managed to meet you after that SWE brunch the first week of freshman year (best thing to come out of living in the fairchildren). You are such a smart, strong, beautiful, caring, and intelligent person and I am proud to know you! You are going to do such great things, and I can’t wait to see you go places!",
 			"Here are some fun memssss:",
+			"- NOT assembly times with russ or the EAs",
 			"- Getting boba at Joy Yees for the very first time (lol), the first of many boba trips!!! (just not at joy yees)",
 			"- Binge watching the first season of Riverdale and Rach saying cole sprouse’s name as cold sprouts (the og group chat)",
 			"- When you successfully merged your two friend groups (cold sprouts + samosa social) and we all went shopping in Chi and then got deep dish at Gino's",
