@@ -105,7 +105,15 @@ var letters = [
 		"<span style='font-size: 14px;'>A major, major throw back……see if you can remember when it’s from</span>"],
 		conclusion: "lots of love, christine"
 	},
-
+	{
+		intro: "dear tara,",
+		body: ["I’ve spent almost 2 days trying to write this letter. I believe the reason it took me so long is because I am too emotional to think clearly. There are too many thoughts that come to my mind, but I don’t know how to accurately express what you mean to me. Hence, I am adopting an alternative strategy- I plan to tell you the thoughts in my head when I think of you. ",
+		"I’ve told you this one several times before, but I always wonder what would have happened if I did not sit next to you on the first day of class, or if we were not in the same class. I promise the other thoughts are ones I haven’t told you about before.",
+		"I wonder how I would survive college if you hadn’t been there every single time I was at my lowest. I don’t know if I would have stopped crying after my DTC meeting, if you hadn’t come to stay the night with me though there was a snowstorm. I don’t know how I would pass EA2 if you had not done all the work while I laughed on the couch. I would have hated eating in dining halls if you did not eat with me. I don’t know when I would have learned how to do makeup if you did not take me to Sephora and teach me later too. I would have taken much longer to get over Dhruv if I didn’t have you. I would have never found my partner in taking 1000 photos if I didn’t meet you. I found family at Northwestern on my first day of class, and I don’t know when that would have happened if I hadn’t met you.",
+		"Sometimes I think you’re unreal. I don’t think I can be half the person and friend you are. I can never forget the day you ran in the snow without your heel boots, just so that I reached class in time. I was literally in shock. I wonder what I did to deserve you. I pray that you get everything good this world has because you’re honestly one in a million. ",
+		"But among all these thoughts the most overwhelming is the thought that I can’t do life without you. Even if I get to see you only thrice a quarter now (thought it makes me v sad and we need to really change that), knowing that I have you as my best friend and elder sister means the world to me. I want you to know that I will always love you unconditionally and will always be there for you no matter what. "],
+		conclusion: "yours forever, <br> archita"
+	},
 	// {
 	// 	intro: "dear tara,",
 	// body: ["",
