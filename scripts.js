@@ -17,7 +17,7 @@ var letters = [
 		"There isn't much that I can say that you don't already know, but it doesn't hurt to repeat it so here I go!", 
 		"<span style='font-size: 18px;'>WHY YOU ARE THE BEST</span>", 
 		"- You <span style='font-size: 18px;'>ALWAYS</span> motivate me to be a better version of myself. From your work ethic (even if you start things late, you still get things done hehe), your determination to get through anything, your compassion (you always see the best in people), to your love for K-dramas and Cha EunWoo HEHE (im gonna insert a picture of him here )",
-		"<img src='eunwoo.png'></img>", 
+		"<img src='eunwoo.png' style='border-radius:30px;'/>", 
 		"- Honestly, I am not sure how I managed to find a best friend/roommate like you cuz you suck. JK LOL. You are so similar to me and you always know what I am thinking, how to make me laugh when I am down, and you encourage my big dreamy dreams haha without laughing at me or making me feel dumb.", 
 		"Thank you for being such an amazing best friend and roommate and for putting up with me hehe. ALSO, CRASH LANDING ON YOU IS SO GOOD LOL IM ON EP 10 SO WE CAN WATCH NOW. ",
 		"I hope you had an amazing day and I can't wait to have more adventures with you, make our youtube channel, podcast, and travel!"],
@@ -58,7 +58,7 @@ var letters = [
 		intro: "dear tara,",
 		body: ["Happy birthday Tara! Thank you for always being so incredibly supportive of all your friends. Even though we don't see each other often anymore, the vibe of our friendship never changes and I am always glad to see you whenever I do!! Btw I hope you're eating proper meals now instead of just bananas and Starbucks.",
 			   "HAVE A GREAT 21ST BIRTHDAY!! Even though we can't celebrate together now, let's throw a little party for all the missed birthdays when all this pandemic business is over ~"],
-		conclusion: "- khizar"
+		conclusion: "-khizar"
 	},
 	{
 		intro: "taro,",
@@ -67,10 +67,45 @@ var letters = [
 	},
 	{
 		intro: "dear tara didi,",
-	body: ["Happy Birthday! While we have already written you birthday letters, we thought this would be a nice keepsake. I hope this year will be everything you want and more and that you will be happy and healthy and safe and get all the hugs you could ever want! Of course, they won’t be the same type of hug that you may get at home, but nonetheless, we want you get cuddles galore wherever you are. You are such a kind, loving, incredible sister and I love everything about you, from the strange noises to the random pouncing and great advice. I am so lucky to have grown up with you and to have witnessed many of the high points and low points in your life. I am so happy we have the relationship we have and that we are as close as we are. You have helped and will continue to help shape me to be the person I will become. As I said in the other letter I wrote, having a sister that I know I can always rely on is the most special thing I could have ever asked for, and someone as great as you to look up to is a gift I can’t ignore. I am so grateful that I got to have you as a sister and as a best friend. As a support system and my very own comedic relief. There is no one else I’d rather laugh so hard with that no sound comes out (which seems to be happening a lot recently). ",
+		body: ["Happy Birthday! While we have already written you birthday letters, we thought this would be a nice keepsake. I hope this year will be everything you want and more and that you will be happy and healthy and safe and get all the hugs you could ever want! Of course, they won’t be the same type of hug that you may get at home, but nonetheless, we want you get cuddles galore wherever you are. You are such a kind, loving, incredible sister and I love everything about you, from the strange noises to the random pouncing and great advice. I am so lucky to have grown up with you and to have witnessed many of the high points and low points in your life. I am so happy we have the relationship we have and that we are as close as we are. You have helped and will continue to help shape me to be the person I will become. As I said in the other letter I wrote, having a sister that I know I can always rely on is the most special thing I could have ever asked for, and someone as great as you to look up to is a gift I can’t ignore. I am so grateful that I got to have you as a sister and as a best friend. As a support system and my very own comedic relief. There is no one else I’d rather laugh so hard with that no sound comes out (which seems to be happening a lot recently). ",
 			"I’ll leave you with the memory of my past birthday, when we went to the karaoke bar and ‘partied’. That was one of the best days I had ever had and it was because we spent it just having fun with each other and Nemma. We sang until we couldn’t anymore and danced like crazy people, then we had dinner at that Japanese curry place. I hope that we can make more memories like that. Those times are when I am happiest!"],
 		conclusion: "lots of love and hugs,<br>anika"
 	},
+	{
+		intro: "dear tara,",
+		body: ["Happy Birthday!! Although we are in a quaran-tine at the moment, I hope you had a WILD 21st bday: your parents have probably poured you some bubbly and you've been like, wow yum this is the first time I've had alcohol. ",
+		"Nevertheless..... let's be a bit more serious",
+		"I'm so lucky that you're in my life. Truly. But first I'm so lucky that we grew closer on that New York trip. Exploring times square at night!!! Walking down two stories of stairs to get to a train!! Through our adventures, I had the opportunity to learn a bit about what you care about and what kind of person you are (there's a lot more to learn:) ). You're thoughtful, hilarious, kind, beautiful, and are driven by purpose. ",
+		"I'm sorry that we're apart, but know that I'm sending you love! ",
+		"I'm also looking forward to our Netflix movie night. As the birthday girl, you should know that you are tasked with choosing the movie. Don't worry, we aren't judging you at all."],
+		conclusion: "love, sophie"
+	},
+	{
+		intro: "dear tara,",
+		body: ["HAPPY BIRTHDAY TARA!!!! Welcome to the 21 club !!!! 🍾 🎉 🙌🏾 I hope you have an amazing day, we all love you and miss you"],
+		conclusion: "-jayna"
+	},
+	{
+		intro: "Hi My Beautiful Girl,",
+		body: ["I am so pleased to announce that today you are turning twenty-one, and that you may now embrace the romantic and legal beauty of early-onset alcoholism in the magnificent state of New Jersey. You’re pretty good at eating jalapeño chips and being a piece of trash, and it has been too long since we’ve done one of those things together. I would fly anywhere for you and your beautiful body. Please remember to eat your vegetables."],
+		conclusion: "With Kind Regards, <br> Kathleen"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Taraaaaa OMG, don’t worry I’ll never call you tarashi that’s just cringey who would ever address another human being by their Instagram username hehe anyway…HAPPY BIRTHDAY MY STONER FRIEND!! It’s weird because if you think about it, I haven’t known you for particularly long. We met this past summer and baked those awesome brown butter chocolate chip cookies at your place and I was going through a really stressful time but I just remember hanging out with you and Avrati made me feel really relaxed after a really long time. I’m not kidding, idk maybe this quarantine got me senti and shit but there’s a lot of people out there who when you’re talking to them, it feels like work. You know when you’re just like super self-conscious about what you say and it’s mentally taxing. You’re like the opposite of that. I feel like I can be crackhead around you and yeah, I think I always say the wrong thing and talk too much but I appreciate you being receptive and non-judgmental lol. ",
+		"You’re one of those people that just has such a warm, positive presence and you really are one of the most grounded but also incredibly funny and lit people I know. I wish I could list out a bunch of nostalgic anecdotes like omg remember when we did that thing in freshman year when we ______ and ______ but even though we’ve hung out so few times (and they’ve been supa lit), I don’t think I need that to convince me that you’re an amazing person. Literally, hit me up anytime if you wanna hang out (even during the quarantine) or talk or whatever, I’ll be there. I’m so sorry your birthday fell on a quarantine day but I hope you had the most amazing day and I’ll be close by in Chicago next year so we gotta hang out. No more excuses, we’re doing it. I’m not a great texter but I love video calls and just like phone calls so ya know if you’re ever super mind-numbingly bored hmu. "],
+		conclusion: "-manasa"
+	},
+	{
+		intro: "dear tara,",
+		body: ["Wow where do I even begin. So incredibly grateful that I’ve known you since freshman year. Even though we don’t get many chances to hang out (although that can change next year!) I know I can always turn to you for a good, soul-searching conversation or laugh and I trulyyy appreciate your thoughtful, kind, chill, and hilarious presence in my life. You have such a magnetic personality that naturally makes you an incredibly fun and trustworthy person to be around. ",
+		"I love especially how we can both relate to being wrapped in our thoughts, emotions, writings (except you prob do a better job translating these abstract things onto paper with all the beautiful poetry you write), for better or worse. Is it weird that I still remember a short conversation (out of many others) summer after freshman year in the good ole Simpson apartment where you understood when I was trying to express the difficulties of articulating emotions on paper because it makes them more “real?” In the moment I thought “yess someone finally understands” – it was heartwarming and validating. It’s the small interactions like these that add up to be a lot, I guess!",
+		"I sincerely hope that you’ll embark in more literary adventures in the future in addition to engineering with that big brain of yours and hope I’ll be able to be a part of that because I know you’ll do AMAZING things :) Also so happy that you found yourself a mans heh and hoping that will serve as a rock in these times of uncertainty too. A weird time to turn 21 for sure but we’ll make the best out of it!! I’d love to keep up the calls and when we get back onto campus we have to have PLENTY of fun (and yes I might actually take an engineering course and ask you to help me through it). Best wishes for the rest of this however-long period, we’ll see better versions of ourselves and hopefully the world too at the end of it! ",
+		"<div style='display:flex; justify-content:center'><img src='christine.png' style='height:200px; border-radius:30px;'/></div>",
+		"<span style='font-size: 14px;'>A major, major throw back……see if you can remember when it’s from</span>"],
+		conclusion: "lots of love, christine"
+	},
+
 	// {
 	// 	intro: "dear tara,",
 	// body: ["",
